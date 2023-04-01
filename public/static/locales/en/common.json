@@ -1,0 +1,14 @@
+{
+  "title": "Medicine Schedule",
+  "nextDose": "Next doses",
+  "addMedicine": "Add medicine",
+  "name": "Medicine",
+  "dose": "Dose",
+  "unit": "Unit",
+  "unitDrops": "drops",
+  "unitPills": "pill(s)",
+  "unitShots": "shot(s)",
+  "interval": "Interval (hours)",
+  "maxDays": "Max days",
+  "add": "Add"
+}

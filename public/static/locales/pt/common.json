@@ -1,0 +1,14 @@
+{
+  "title": "Agenda de Medicamentos",
+  "nextDose": "Próximas doses",
+  "addMedicine": "Adicionar medicamento",
+  "name": "Medicamento",
+  "dose": "Dose",
+  "unit": "Unidade",
+  "unitDrops": "gotas",
+  "unitPills": "comprimido(s)",
+  "unitShots": "injeção(ões)",
+  "interval": "Intervalo (horas)",
+  "maxDays": "Duração máxima (dias)",
+  "add": "Adicionar"
+}
